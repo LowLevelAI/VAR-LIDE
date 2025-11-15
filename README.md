@@ -1,2 +1,2 @@
 # VAR-LIDE
-Official implementation of VAR-LIDE, which is accpeted by AAAI 2025
+Official implementation of VAR-LIDE, which is accpeted by AAAI 2026.
